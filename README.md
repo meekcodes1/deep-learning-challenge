@@ -1,6 +1,6 @@
 # deep-learning-challenge
 
-This repo contains an analysis of fictional "Alphabet Soup" company. The objective is to create a neural network to predict the likelihood of successful funding.
+This repo contains an analysis of fictional "Alphabet Soup" company. The objective is to create a neural network to accurately select successful funding applicants.
 
 Initial Model:
 - "AlphabetSoupCharity.ipynb" contains the initial model code
